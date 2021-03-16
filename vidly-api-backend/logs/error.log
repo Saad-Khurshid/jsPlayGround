@@ -1,0 +1,110 @@
+
+2021-03-11 21:34:43:3443 [31merror[39m: [31mconnect ECONNREFUSED 127.0.0.1:27017 connect ECONNREFUSED 127.0.0.1:27017[39m
+
+2021-03-11 21:38:18:3818 [31merror[39m: [31munhandledRejection: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31mMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31m    at NativeConnection.Connection.openUri (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/connection.js:845:32)[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:345:10[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:1135:10)[39m
+[31m    at Mongoose.connect (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:344:20)[39m
+[31m    at Object.default (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/startup/db.ts:16:14)[39m
+[31m    at Object.<anonymous> (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/server.ts:13:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1083:30)[39m
+[31m    at Module._compile (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/source-map-support/source-map-support.js:547:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-934761510878168.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1112:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-934761510878168.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:948:32)[39m
+
+2021-03-11 21:38:18:3818 [31merror[39m: [31munhandledRejection: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31mMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31m    at NativeConnection.Connection.openUri (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/connection.js:845:32)[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:345:10[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:1135:10)[39m
+[31m    at Mongoose.connect (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:344:20)[39m
+[31m    at Object.default (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/startup/db.ts:16:14)[39m
+[31m    at Object.<anonymous> (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/server.ts:13:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1083:30)[39m
+[31m    at Module._compile (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/source-map-support/source-map-support.js:547:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-934761510878168.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1112:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-934761510878168.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:948:32)[39m
+
+2021-03-12 18:16:48:1648 [31merror[39m: [31munhandledRejection: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31mMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31m    at NativeConnection.Connection.openUri (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/connection.js:845:32)[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:345:10[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:1135:10)[39m
+[31m    at Mongoose.connect (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:344:20)[39m
+[31m    at Object.default (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/startup/db.ts:16:14)[39m
+[31m    at Object.<anonymous> (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/server.ts:13:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1083:30)[39m
+[31m    at Module._compile (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/source-map-support/source-map-support.js:547:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3267096376495673.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1112:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3267096376495673.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:948:32)[39m
+
+2021-03-12 18:16:48:1648 [31merror[39m: [31munhandledRejection: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31mMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31m    at NativeConnection.Connection.openUri (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/connection.js:845:32)[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:345:10[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:1135:10)[39m
+[31m    at Mongoose.connect (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:344:20)[39m
+[31m    at Object.default (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/startup/db.ts:16:14)[39m
+[31m    at Object.<anonymous> (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/server.ts:13:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1083:30)[39m
+[31m    at Module._compile (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/source-map-support/source-map-support.js:547:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3267096376495673.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1112:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3267096376495673.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:948:32)[39m
+
+2021-03-12 18:46:02:462 [31merror[39m: [31mCast to ObjectId failed for value "1" at path "_id" for model "Movie" Cast to ObjectId failed for value "1" at path "_id" for model "Movie"[39m
+
+2021-03-13 20:28:20:2820 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 20:52:18:5218 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 20:52:26:5226 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:00:56:056 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:03:36:336 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:03:41:341 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:04:51:451 [31merror[39m: [31mCannot set headers after they are sent to the client Cannot set headers after they are sent to the client[39m
+
+2021-03-15 22:48:31:4831 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:50:25:5025 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:51:03:513 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:52:09:529 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:52:35:5235 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:54:53:5453 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-16 00:08:29:829 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-16 00:09:45:945 [31merror[39m: [31mInvalide Token[39m

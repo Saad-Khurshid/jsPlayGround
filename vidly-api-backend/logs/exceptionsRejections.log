@@ -1,0 +1,76 @@
+
+2021-03-12 18:49:20:4920 [31merror[39m: [31munhandledRejection: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31mMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31m    at NativeConnection.Connection.openUri (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/connection.js:845:32)[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:345:10[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:1135:10)[39m
+[31m    at Mongoose.connect (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:344:20)[39m
+[31m    at Object.default (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/startup/db.ts:16:14)[39m
+[31m    at Object.<anonymous> (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/server.ts:13:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1083:30)[39m
+[31m    at Module._compile (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/source-map-support/source-map-support.js:547:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-8547466836123152.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1112:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-8547466836123152.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:948:32)[39m
+
+2021-03-12 18:49:20:4920 [31merror[39m: [31munhandledRejection: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31mMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+[31m    at NativeConnection.Connection.openUri (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/connection.js:845:32)[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:345:10[39m
+[31m    at /home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:1135:10)[39m
+[31m    at Mongoose.connect (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/mongoose/lib/index.js:344:20)[39m
+[31m    at Object.default (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/startup/db.ts:16:14)[39m
+[31m    at Object.<anonymous> (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/source/server.ts:13:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1083:30)[39m
+[31m    at Module._compile (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/source-map-support/source-map-support.js:547:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-8547466836123152.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1112:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-8547466836123152.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:948:32)[39m
+
+2021-03-13 19:07:31:731 [31merror[39m: [31muncaughtException: Channel closed[39m
+[31mError [ERR_IPC_CHANNEL_CLOSED]: Channel closed[39m
+[31m    at new NodeError (node:internal/errors:259:15)[39m
+[31m    at process.target.send (node:internal/child_process:712:16)[39m
+[31m    at reportSuccess (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/jest-worker/build/workers/processChild.js:67:11)[39m
+
+2021-03-13 19:07:31:731 [31merror[39m: [31muncaughtException: Channel closed[39m
+[31mError [ERR_IPC_CHANNEL_CLOSED]: Channel closed[39m
+[31m    at new NodeError (node:internal/errors:259:15)[39m
+[31m    at process.target.send (node:internal/child_process:712:16)[39m
+[31m    at reportSuccess (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/jest-worker/build/workers/processChild.js:67:11)[39m
+
+2021-03-13 19:07:31:731 [31merror[39m: [31muncaughtException: write EPIPE[39m
+[31mError: write EPIPE[39m
+[31m    at afterWriteDispatched (node:internal/stream_base_commons:162:15)[39m
+[31m    at writeGeneric (node:internal/stream_base_commons:153:3)[39m
+[31m    at Socket._writeGeneric (node:net:763:11)[39m
+[31m    at Socket._write (node:net:775:8)[39m
+[31m    at writeOrBuffer (node:internal/streams/writable:388:12)[39m
+[31m    at Socket.Writable.write (node:internal/streams/writable:333:10)[39m
+[31m    at Console.log (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at ExceptionStream._write (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/lib/winston/exception-stream.js:48:29)[39m
+[31m    at doWrite (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:409:139)[39m
+[31m    at writeOrBuffer (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:398:5)[39m
+
+2021-03-13 19:07:31:731 [31merror[39m: [31muncaughtException: write EPIPE[39m
+[31mError: write EPIPE[39m
+[31m    at afterWriteDispatched (node:internal/stream_base_commons:162:15)[39m
+[31m    at writeGeneric (node:internal/stream_base_commons:153:3)[39m
+[31m    at Socket._writeGeneric (node:net:763:11)[39m
+[31m    at Socket._write (node:net:775:8)[39m
+[31m    at writeOrBuffer (node:internal/streams/writable:388:12)[39m
+[31m    at Socket.Writable.write (node:internal/streams/writable:333:10)[39m
+[31m    at Console.log (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at ExceptionStream._write (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/lib/winston/exception-stream.js:48:29)[39m
+[31m    at doWrite (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:409:139)[39m
+[31m    at writeOrBuffer (/home/saad/Desktop/projects/jsPlayGround/vidly-api-backend/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:398:5)[39m

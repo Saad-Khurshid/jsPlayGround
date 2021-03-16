@@ -1,0 +1,112 @@
+
+2021-03-11 21:32:11:3211 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-11 21:32:27:3227 [35mhttp[39m: [35mMETHOD - [POST], URL - [/api/genres], IP - [::1][39m
+
+2021-03-11 21:32:27:3227 [35mhttp[39m: [35mMETHOD - [POST], URL - [/api/genres], IP - [::1], STATUS - [401][39m
+
+2021-03-11 21:33:11:3311 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-11 21:33:19:3319 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-11 21:34:00:340 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/genres], IP - [::1][39m
+
+2021-03-11 21:34:00:340 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/genres], IP - [::1], STATUS - [200][39m
+
+2021-03-11 21:34:13:3413 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/genres], IP - [::1][39m
+
+2021-03-11 21:34:43:3443 [31merror[39m: [31mconnect ECONNREFUSED 127.0.0.1:27017 connect ECONNREFUSED 127.0.0.1:27017[39m
+
+2021-03-11 21:34:43:3443 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/genres], IP - [::1], STATUS - [500][39m
+
+2021-03-11 21:35:08:358 [35mhttp[39m: [35mMETHOD - [POST], URL - [/api/genres], IP - [::1][39m
+
+2021-03-11 21:35:08:358 [35mhttp[39m: [35mMETHOD - [POST], URL - [/api/genres], IP - [::1], STATUS - [401][39m
+
+2021-03-11 21:35:33:3533 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-11 21:37:48:3748 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-11 21:40:46:4046 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:16:18:1618 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:43:24:4324 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:43:24:4324 [32minfo[39m: [32mMongodb connected![39m
+
+2021-03-12 18:44:29:4429 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:44:29:4429 [32minfo[39m: [32mMongodb connected![39m
+
+2021-03-12 18:45:23:4523 [35mhttp[39m: [35mMETHOD - [POST], URL - [/api/genres], IP - [::1][39m
+
+2021-03-12 18:45:23:4523 [35mhttp[39m: [35mMETHOD - [POST], URL - [/api/genres], IP - [::1], STATUS - [401][39m
+
+2021-03-12 18:45:26:4526 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/genres], IP - [::1][39m
+
+2021-03-12 18:45:26:4526 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/genres], IP - [::1], STATUS - [200][39m
+
+2021-03-12 18:45:32:4532 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/users], IP - [::1][39m
+
+2021-03-12 18:45:32:4532 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/users], IP - [::1], STATUS - [404][39m
+
+2021-03-12 18:45:36:4536 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/user], IP - [::1][39m
+
+2021-03-12 18:45:36:4536 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/user], IP - [::1], STATUS - [404][39m
+
+2021-03-12 18:45:39:4539 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/users], IP - [::1][39m
+
+2021-03-12 18:45:39:4539 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/users], IP - [::1], STATUS - [404][39m
+
+2021-03-12 18:45:54:4554 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/movies], IP - [::1][39m
+
+2021-03-12 18:45:54:4554 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/movies], IP - [::1], STATUS - [200][39m
+
+2021-03-12 18:46:02:462 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/movies/1], IP - [::1][39m
+
+2021-03-12 18:46:02:462 [31merror[39m: [31mCast to ObjectId failed for value "1" at path "_id" for model "Movie" Cast to ObjectId failed for value "1" at path "_id" for model "Movie"[39m
+
+2021-03-12 18:46:02:462 [35mhttp[39m: [35mMETHOD - [GET], URL - [/api/movies/1], IP - [::1], STATUS - [500][39m
+
+2021-03-12 18:48:08:488 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:48:08:488 [32minfo[39m: [32mMongodb connected![39m
+
+2021-03-12 18:48:50:4850 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:50:42:5042 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-12 18:50:42:5042 [32minfo[39m: [32mMongodb connected![39m
+
+2021-03-13 18:36:10:3610 [32minfo[39m: [32mServer running on localhost:3000[39m
+
+2021-03-13 20:28:20:2820 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 20:52:18:5218 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 20:52:26:5226 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:00:56:056 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:03:36:336 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:03:41:341 [31merror[39m: [31mCast to ObjectId failed for value "123" at path "_id" for model "Genre" Cast to ObjectId failed for value "123" at path "_id" for model "Genre"[39m
+
+2021-03-13 21:04:51:451 [31merror[39m: [31mCannot set headers after they are sent to the client Cannot set headers after they are sent to the client[39m
+
+2021-03-15 22:48:31:4831 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:50:25:5025 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:51:03:513 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:52:09:529 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:52:35:5235 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-15 22:54:53:5453 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-16 00:08:29:829 [31merror[39m: [31mInvalide Token[39m
+
+2021-03-16 00:09:45:945 [31merror[39m: [31mInvalide Token[39m
